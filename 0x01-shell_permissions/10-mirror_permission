@@ -1,1 +1,2 @@
 chmod ~rreference olleh hello
+chmod -rreference olleh hello
